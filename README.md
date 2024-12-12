@@ -89,3 +89,7 @@ o	Example: Giuliani transportation cost = $0.50/kg.
 Machine Hours
 •	Machine hours required to produce each yarn size depend on equipment and yarn specifications.
 •	Capacity differs across mills.
+
+Create a linear optimization model and answer following questions on book pages
+
+Then create an excel sheet to process the linear optimization model to find where to minimize costs.
